@@ -98,9 +98,9 @@ var customScripts = {
 }
 $('document').ready(function () {
 	 $.backstretch([
-      "images/img1.jpg"
-    , "images/img2.jpg"
-    , "images/img3.jpg"
+      "images/banner_image_1.jpg"
+    , "images/banner_image_2.jpg"
+    , "images/banner_image_3.jpg"
   ], {duration: 3000, fade: 1250});
   
     customScripts.init();
